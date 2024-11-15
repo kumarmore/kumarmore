@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krantikumar MOre</h1>
+<h1 align="center">Hi 👋, I'm Krantikumar More</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
     <img align = "center" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGc5bjgyemZzdDJpaG14azFqeThkZTNheDQxdDl0cnhnZG1uMnk2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="coding">
 
